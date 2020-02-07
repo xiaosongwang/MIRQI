@@ -1,0 +1,43 @@
+blunt
+density
+elevation
+eventration
+degenera
+bronchospasm
+asthma
+interstitial markings
+plaque
+osteophytosis
+aortic disease
+bronchiolitis
+thickening
+cephalization
+aspiration
+bullae
+contusion
+atherosclero
+osteopenia
+metastasis
+granuloma
+pneumomediastinum
+pneumoperitoneum
+osteodystrophy
+cuffing
+irregular lucency
+inflam
+fissure
+prominen
+kyphosis
+defib
+bullet
+reticula
+thoracentesis
+bronchitis
+volume loss
+deformity
+hemorrhage
+hematoma
+radiopaque
+aerophagia
+arthropathy
+tracheostomy

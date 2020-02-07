@@ -1,0 +1,14 @@
+Reports,attributes
+Heart size normal and lungs are clear. No edema or pneumonia. No effusion,"[array(['heart size', 'Cardiomegaly', 'NEGATIVE', 'normal/clear'],
+      dtype='<U12'), array(['pneumonia', 'Pneumonia', 'NEGATIVE', 'no'], dtype='<U9'), array(['edema', 'Edema', 'NEGATIVE', 'no'], dtype='<U8'), array(['effusion', 'Pleural Effusion', 'NEGATIVE', 'no'], dtype='<U16')]"
+"1. Left pleural effusion with adjacent atelectasis. Right effusion is also present.
+
+2. Cardiomegaly without overt edema.","[array(['effusion', 'Pleural Effusion', 'POSITIVE', 'left/pleural'],
+      dtype='<U16'), array(['atelecta', 'Atelectasis', 'POSITIVE', 'adjacent'], dtype='<U11'), array(['effusion', 'Pleural Effusion', 'POSITIVE', 'right/present'],
+      dtype='<U16'), array(['cardiomegaly', 'Cardiomegaly', 'POSITIVE', 'edema'], dtype='<U12'), array(['edema', 'Edema', 'NEGATIVE', 'cardiomegaly/overt'], dtype='<U18')]"
+enlarged heart,"[array(['enlarged heart', 'Cardiomegaly', 'POSITIVE', ''], dtype='<U14')]"
+"Minimal patchy airspace disease within the lingula, may reflect atelectasis or consolidation.","[array(['consolidat', 'Consolidation', 'UNCERTAIN', 'atelectasis'],
+      dtype='<U13'), array(['airspace disease', 'Airspace Opacity', 'POSITIVE',
+       'minimal/patchy/lingula'], dtype='<U22'), array(['atelecta', 'Atelectasis', 'UNCERTAIN', 'consolidation'],
+      dtype='<U13')]"
+1. Stable mild cardiomegaly. 2. Hyperexpanded but clear lungs.,"[array(['cardiomegaly', 'Cardiomegaly', 'POSITIVE', 'mild'], dtype='<U12')]"
