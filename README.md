@@ -34,6 +34,10 @@ If you're using MIRQI evaluation metrics, please cite
 #[this paper]():
 
 ```
-@inproceedings{
-}
+@article{Zhang_Wang_Xu_Yu_Yuille_Xu_2020, 
+title={When Radiology Report Generation Meets Knowledge Graph}, 
+journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+author={Zhang, Yixiao and Wang, Xiaosong and Xu, Ziyue and Yu, Qihang and Yuille, Alan and Xu, Daguang},
+url={https://ojs.aaai.org/index.php/AAAI/article/view/6989}, DOI={10.1609/aaai.v34i07.6989}, 
+volume={34}, number={07}, year={2020}, month={Apr.}, pages={12910-12917} }
 ```
